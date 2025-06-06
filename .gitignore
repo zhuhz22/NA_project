@@ -1,0 +1,12 @@
+__pycache__
+*.egg-info
+wandb
+workdir
+*.pt
+*.ipynb
+*.npz
+.ipynb_checkpoints
+assets/datasets/DIODE/
+assets/datasets/ImageNet/
+assets/datasets/edges2handbags/
+assets/datasets/DIODE-256/
