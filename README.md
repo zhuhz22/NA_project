@@ -23,7 +23,7 @@ For image restoration:
 
 ## Evaluations
 
-下载参考啊数据，置于 `assets/stats/`:
+下载参考数据，置于 `assets/stats/`:
 
 [edges2handbags_ref_64_data.npz](https://huggingface.co/alexzhou907/DDBM/resolve/main/edges2handbags_ref_64_data.npz).
 
