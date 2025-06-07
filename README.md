@@ -19,7 +19,7 @@ bash download_extract_edges2handbags.sh
 
 此后执行：`python preprocess_ckpt.py` 
 
-## Evaluations
+## 效果评测
 
 下载参考数据，置于 `assets/stats/`:
 
